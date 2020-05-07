@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>1</folder>
 	<filename>62.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\data\images\train\62.jpg</path>
+	<path>D:\F Project\1\62.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>254</xmin>
-			<ymin>302</ymin>
-			<xmax>758</xmax>
-			<ymax>597</ymax>
+			<xmin>101</xmin>
+			<ymin>5</ymin>
+			<xmax>773</xmax>
+			<ymax>506</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>334.jpg</filename>
+	<path>C:\Users\Megha\Desktop\project trail\2\334.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>39</ymin>
+			<xmax>666</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

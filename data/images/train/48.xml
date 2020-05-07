@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>1</folder>
 	<filename>48.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\data\images\train\48.jpg</path>
+	<path>D:\F Project\1\48.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>monkey</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>114</xmin>
-			<ymin>51</ymin>
-			<xmax>800</xmax>
-			<ymax>599</ymax>
+			<xmin>200</xmin>
+			<ymin>45</ymin>
+			<xmax>431</xmax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 </annotation>

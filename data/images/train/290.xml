@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>290.jpg</filename>
+	<path>C:\Users\Megha\Desktop\project trail\2\290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>43</ymin>
+			<xmax>750</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
