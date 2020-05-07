@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>00067.jpg</filename>
+	<path>C:\Users\hp lap\Downloads\3\3\693.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>46</ymin>
+			<xmax>760</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

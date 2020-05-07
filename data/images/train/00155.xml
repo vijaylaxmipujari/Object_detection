@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>00155.jpg</filename>
+	<path>D:\F Project\1\23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>37</ymin>
+			<xmax>769</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

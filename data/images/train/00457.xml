@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2</folder>
+	<filename>00457.jpg</filename>
+	<path>C:\Users\Megha\Desktop\project trail\2\509.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>37</ymin>
+			<xmax>644</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>342</ymin>
+			<xmax>545</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

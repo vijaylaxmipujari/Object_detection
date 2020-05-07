@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>00073.jpg</filename>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\data\4\788.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>46</ymin>
+			<xmax>655</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3rd trail</folder>
+	<filename>00963.jpg</filename>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\992.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>189</ymin>
+			<xmax>753</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
