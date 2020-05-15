@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A person</folder>
+	<filename>00099.jpg</filename>
+	<path>C:\Users\hp lap\Downloads\A person\A person\50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>13</ymin>
+			<xmax>777</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>3rd trail</folder>
+	<folder>my people images</folder>
 	<filename>00961.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\990.jpg</path>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\people images\my people images\103.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>dog</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4</xmin>
-			<ymin>11</ymin>
-			<xmax>755</xmax>
-			<ymax>600</ymax>
+			<xmin>207</xmin>
+			<ymin>104</ymin>
+			<xmax>413</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>104</ymin>
+			<xmax>788</xmax>
+			<ymax>474</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>2</folder>
 	<filename>00422.jpg</filename>
-	<path>C:\Users\Megha\Desktop\project trail\2\478.jpg</path>
+	<path>C:\Users\Megha\Desktop\project trail\2\487.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>161</ymin>
-			<xmax>768</xmax>
-			<ymax>565</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elephant</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>152</xmin>
-			<ymin>165</ymin>
-			<xmax>290</xmax>
-			<ymax>285</ymax>
+			<xmin>79</xmin>
+			<ymin>54</ymin>
+			<xmax>759</xmax>
+			<ymax>536</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>2</folder>
 	<filename>00300.jpg</filename>
-	<path>C:\Users\Megha\Desktop\project trail\2\368.jpg</path>
+	<path>C:\Users\Megha\Desktop\project trail\2\375.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,73 @@
 	<object>
 		<name>monkey</name>
 		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>59</ymin>
+			<xmax>135</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>152</xmin>
-			<ymin>9</ymin>
-			<xmax>724</xmax>
-			<ymax>520</ymax>
+			<xmin>131</xmin>
+			<ymin>100</ymin>
+			<xmax>367</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>1</ymin>
+			<xmax>512</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>12</ymin>
+			<xmax>747</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>279</ymin>
+			<xmax>800</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>175</ymin>
+			<xmax>615</xmax>
+			<ymax>468</ymax>
 		</bndbox>
 	</object>
 </annotation>
