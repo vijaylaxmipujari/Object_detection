@@ -1,14 +1,14 @@
 <annotation>
 	<folder>3</folder>
 	<filename>00484.jpg</filename>
-	<path>C:\Users\hp lap\Downloads\3\3\542.jpg</path>
+	<path>C:\Users\hp lap\Downloads\3\3\541.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
 		<height>600</height>
-		<depth>1</depth>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>216</xmin>
-			<ymin>71</ymin>
-			<xmax>692</xmax>
-			<ymax>561</ymax>
+			<xmin>90</xmin>
+			<ymin>185</ymin>
+			<xmax>534</xmax>
+			<ymax>505</ymax>
 		</bndbox>
 	</object>
 </annotation>

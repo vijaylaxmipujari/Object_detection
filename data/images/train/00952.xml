@@ -1,7 +1,7 @@
 <annotation>
 	<folder>3rd trail</folder>
 	<filename>00952.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\994.jpg</path>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\993.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>48</xmin>
-			<ymin>25</ymin>
-			<xmax>781</xmax>
-			<ymax>563</ymax>
+			<xmin>195</xmin>
+			<ymin>170</ymin>
+			<xmax>731</xmax>
+			<ymax>530</ymax>
 		</bndbox>
 	</object>
 </annotation>

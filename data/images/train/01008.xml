@@ -1,14 +1,14 @@
 <annotation>
 	<folder>people images</folder>
 	<filename>01008.jpg</filename>
-	<path>C:\Users\Bharat Computers\Desktop\F Project\people images\3.jpg</path>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\people images\29.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
 		<height>600</height>
-		<depth>1</depth>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>9</ymin>
-			<xmax>791</xmax>
-			<ymax>587</ymax>
+			<xmin>377</xmin>
+			<ymin>308</ymin>
+			<xmax>419</xmax>
+			<ymax>387</ymax>
 		</bndbox>
 	</object>
 </annotation>
