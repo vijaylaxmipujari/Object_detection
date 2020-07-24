@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# python xml_filename_labelname_print train
+
 import sys
 from os import listdir
 from os.path import isfile, isdir, join, dirname, splitext, basename

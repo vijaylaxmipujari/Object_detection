@@ -3,7 +3,9 @@
 # If present will be stored in respective outIMG & outXml
 # "no" variable - Increment starts from the number assigned  
 # Input format:
-# python JpegXmlRename.py ImageSourcePath xmlSourcePath 
+# python JpegXmlRename.py ImageSourcePath xmlSourcePath
+# python JpegXmlRename.py train train
+
 
 
 import os

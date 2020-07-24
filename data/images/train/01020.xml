@@ -1,7 +1,7 @@
 <annotation>
-	<folder>A person</folder>
+	<folder>people images</folder>
 	<filename>01020.jpg</filename>
-	<path>C:\Users\hp lap\Downloads\A person\A person\127.jpg</path>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\people images\39.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>216</xmin>
-			<ymin>61</ymin>
-			<xmax>734</xmax>
-			<ymax>587</ymax>
+			<xmin>256</xmin>
+			<ymin>106</ymin>
+			<xmax>640</xmax>
+			<ymax>594</ymax>
 		</bndbox>
 	</object>
 </annotation>

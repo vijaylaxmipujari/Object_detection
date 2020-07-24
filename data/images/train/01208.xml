@@ -1,7 +1,7 @@
 <annotation>
 	<folder>my people images</folder>
 	<filename>01208.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\people images\my people images\84.jpg</path>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\people images\my people images\83.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>98</xmin>
-			<ymin>225</ymin>
-			<xmax>185</xmax>
-			<ymax>513</ymax>
+			<xmin>78</xmin>
+			<ymin>33</ymin>
+			<xmax>413</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>516</xmin>
-			<ymin>177</ymin>
-			<xmax>662</xmax>
+			<xmin>440</xmin>
+			<ymin>74</ymin>
+			<xmax>779</xmax>
 			<ymax>600</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>676</xmin>
-			<ymin>219</ymin>
-			<xmax>760</xmax>
-			<ymax>427</ymax>
 		</bndbox>
 	</object>
 </annotation>

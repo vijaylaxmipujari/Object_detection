@@ -1,14 +1,14 @@
 <annotation>
 	<folder>images</folder>
 	<filename>01395.jpg</filename>
-	<path>C:\Users\Bharat Computers\Desktop\F Project\images\97.jpg</path>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\images\96.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
 		<height>600</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>19</ymin>
-			<xmax>781</xmax>
-			<ymax>593</ymax>
+			<xmin>231</xmin>
+			<ymin>51</ymin>
+			<xmax>561</xmax>
+			<ymax>538</ymax>
 		</bndbox>
 	</object>
 </annotation>
