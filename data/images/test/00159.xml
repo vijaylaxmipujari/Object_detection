@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images buffalo</folder>
+	<filename>00159.jpg</filename>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\images buffalo\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buffalo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>198</ymin>
+			<xmax>691</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

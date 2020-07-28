@@ -1,7 +1,7 @@
 <annotation>
 	<folder>my people images</folder>
 	<filename>00975.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\people images\my people images\114.jpg</path>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\people images\my people images\113.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>172</xmin>
+			<xmin>434</xmin>
 			<ymin>16</ymin>
-			<xmax>545</xmax>
-			<ymax>436</ymax>
+			<xmax>683</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>

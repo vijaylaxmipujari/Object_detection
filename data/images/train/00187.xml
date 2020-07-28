@@ -1,7 +1,7 @@
 <annotation>
 	<folder>1</folder>
 	<filename>00187.jpg</filename>
-	<path>D:\F Project\1\263.jpg</path>
+	<path>D:\F Project\1\262.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>8</ymin>
-			<xmax>740</xmax>
-			<ymax>559</ymax>
+			<xmin>11</xmin>
+			<ymin>145</ymin>
+			<xmax>788</xmax>
+			<ymax>501</ymax>
 		</bndbox>
 	</object>
 </annotation>

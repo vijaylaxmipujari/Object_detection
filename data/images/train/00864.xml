@@ -1,7 +1,7 @@
 <annotation>
 	<folder>4</folder>
 	<filename>00864.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\data\4\909.jpg</path>
+	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\data\4\908.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,25 +14,13 @@
 	<object>
 		<name>dog</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>24</xmin>
-			<ymin>267</ymin>
-			<xmax>159</xmax>
-			<ymax>472</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dog</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>445</xmin>
-			<ymin>182</ymin>
-			<xmax>666</xmax>
-			<ymax>446</ymax>
+			<xmin>211</xmin>
+			<ymin>4</ymin>
+			<xmax>741</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>

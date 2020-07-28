@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# python xml_filename_labelname_print train
+# python xml_filename_labelname_print.py train
 
 import sys
 from os import listdir
