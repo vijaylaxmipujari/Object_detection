@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>01250.jpg</filename>
-	<path>C:\Users\Bharat Computers\Desktop\F Project\images\12.jpg</path>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\images\163.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>person</name>
+		<name>dog</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>10</xmin>
-			<ymin>23</ymin>
-			<xmax>765</xmax>
-			<ymax>594</ymax>
+			<xmin>120</xmin>
+			<ymin>5</ymin>
+			<xmax>600</xmax>
+			<ymax>589</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,14 +1,14 @@
 <annotation>
 	<folder>images buffalo</folder>
 	<filename>01655.jpg</filename>
-	<path>C:\Users\Bharat Computers\Desktop\F Project\images buffalo\281.jpg</path>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\images buffalo\324.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
 		<height>600</height>
-		<depth>1</depth>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>180</ymin>
-			<xmax>461</xmax>
-			<ymax>570</ymax>
+			<xmin>356</xmin>
+			<ymin>39</ymin>
+			<xmax>697</xmax>
+			<ymax>387</ymax>
 		</bndbox>
 	</object>
 </annotation>

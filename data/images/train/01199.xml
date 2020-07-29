@@ -1,7 +1,7 @@
 <annotation>
-	<folder>my people images</folder>
+	<folder>images</folder>
 	<filename>01199.jpg</filename>
-	<path>C:\Users\DA1030TU\Desktop\3rd trail\object_detection_demo-master\people images\my people images\74.jpg</path>
+	<path>C:\Users\Bharat Computers\Desktop\F Project\images\117.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>person</name>
+		<name>elephant</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>46</xmin>
-			<ymin>198</ymin>
-			<xmax>118</xmax>
-			<ymax>509</ymax>
+			<xmin>197</xmin>
+			<ymin>34</ymin>
+			<xmax>617</xmax>
+			<ymax>588</ymax>
 		</bndbox>
 	</object>
 </annotation>
